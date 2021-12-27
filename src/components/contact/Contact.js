@@ -16,8 +16,9 @@ class Contact extends Component {
                         required: true,
                         maxlength: 50,
                     },
-                    email_id: {
+                    email: {
                         required: true,
+                        email: true,
                         maxlength: 50,
                     },
                     message: {
@@ -27,7 +28,7 @@ class Contact extends Component {
                 },
                 messages: {
                     name: "This is a required field",
-                    email_id: "This is a required field",
+                    email: "This is a required field",
                     message: "This is a required field",
                 },
                 submitHandler: function (form) {
@@ -61,6 +62,7 @@ class Contact extends Component {
                                                     <input
                                                         className="form-control"
                                                         id="name"
+                                                        name="name"
                                                         type="text"
                                                         placeholder="Name"
                                                     />
@@ -71,11 +73,12 @@ class Contact extends Component {
                                                 <div className="form-floating mb-3">
                                                     <input
                                                         className="form-control"
-                                                        id="emailAddress"
+                                                        id="email"
+                                                        name="email"
                                                         type="email"
                                                         placeholder="Email Address"
                                                     />
-                                                    <label for="emailAddress">
+                                                    <label for="email">
                                                         Email Address
                                                     </label>
                                                 </div>

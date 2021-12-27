@@ -43,13 +43,7 @@ class Products extends Component {
                         <div className="title pt-4 pb-1">
                             Botanical Print Playsuit
                         </div>
-                        <div className="d-flex align-content-center justify-content-center">
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                        </div>
+                        <div className="d-flex align-content-center justify-content-center"></div>
                         <div className="price">₹ 5000.0</div>
                     </div>
                     <div className="col-lg-3 col-sm-6 d-flex flex-column align-items-center justify-content-center product-item my-3">
@@ -79,13 +73,7 @@ class Products extends Component {
                         <div className="title pt-4 pb-1">
                             All-Over Printed Polo
                         </div>
-                        <div className="d-flex align-content-center justify-content-center">
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                        </div>
+                        <div className="d-flex align-content-center justify-content-center"></div>
                         <div className="price">₹ 4000.0</div>
                     </div>
                     <div className="col-lg-3 col-sm-6 d-flex flex-column align-items-center justify-content-center product-item my-3">
@@ -115,13 +103,7 @@ class Products extends Component {
                         <div className="title pt-4 pb-1">
                             Pleated Shoulder Top
                         </div>
-                        <div className="d-flex align-content-center justify-content-center">
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                        </div>
+                        <div className="d-flex align-content-center justify-content-center"></div>
                         <div className="price">₹ 5000.0</div>
                     </div>
                     <div className="col-lg-3 col-sm-6 d-flex flex-column align-items-center justify-content-center product-item my-3">
@@ -148,13 +130,7 @@ class Products extends Component {
                             </ul>
                         </div>
                         <div className="title pt-4 pb-1">Tye Shorts</div>
-                        <div className="d-flex align-content-center justify-content-center">
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                        </div>
+                        <div className="d-flex align-content-center justify-content-center"></div>
                         <div className="price">₹ 1000.0</div>
                     </div>
                 </div>
@@ -186,13 +162,7 @@ class Products extends Component {
                         <div className="title pt-4 pb-1">
                             Suede Trucker Jacket
                         </div>
-                        <div className="d-flex align-content-center justify-content-center">
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                        </div>
+                        <div className="d-flex align-content-center justify-content-center"></div>
                         <div className="price">₹ 3000.0</div>
                     </div>
                     <div className="col-lg-3 col-sm-6 d-flex flex-column align-items-center justify-content-center product-item my-3">
@@ -222,13 +192,7 @@ class Products extends Component {
                         <div className="title pt-4 pb-1">
                             Sleeveless Pleated Top
                         </div>
-                        <div className="d-flex align-content-center justify-content-center">
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                        </div>
+                        <div className="d-flex align-content-center justify-content-center"></div>
                         <div className="price">₹ 5000.00</div>
                     </div>
                     <div className="col-lg-3 col-sm-6 d-flex flex-column align-items-center justify-content-center product-item my-3">
@@ -257,13 +221,7 @@ class Products extends Component {
                         <div className="title pt-4 pb-1">
                             Artwork Hawaii Shirt Brutus
                         </div>
-                        <div className="d-flex align-content-center justify-content-center">
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                        </div>
+                        <div className="d-flex align-content-center justify-content-center"></div>
                         <div className="price">₹ 10000.00</div>
                     </div>
                     <div className="col-lg-3 col-sm-6 d-flex flex-column align-items-center justify-content-center product-item my-3">
@@ -291,13 +249,7 @@ class Products extends Component {
                         </div>
                         <div className="tag bg-green">new</div>
                         <div className="title pt-4 pb-1">Tie Front Blouse</div>
-                        <div className="d-flex align-content-center justify-content-center">
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                            <span className="fas fa-star"></span>
-                        </div>
+                        <div className="d-flex align-content-center justify-content-center"></div>
                         <div className="price">₹ 2000</div>
                     </div>
                 </div>

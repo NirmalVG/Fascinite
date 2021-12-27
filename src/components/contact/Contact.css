@@ -13,3 +13,8 @@
     background-repeat: no-repeat;
 }
 
+label.error {
+    color: red!important;
+    margin-top: 15px;
+}
+
