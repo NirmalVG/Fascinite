@@ -11,15 +11,13 @@ function SearchBar() {
     const [show, setShow] = useState(false);
     return (
         <>
-            <a className="cart btn-lg text-reset me-3" href="#!">
-                <FontAwesomeIcon
-                    className="icon me-3"
-                    icon={faSearch}
-                    variant="primary"
-                    onClick={() => setShow(true)}
-                    dialogClassName="my-modal"
-                />
-            </a>
+            <FontAwesomeIcon
+                className="icon cart text-reset me-5"
+                icon={faSearch}
+                variant="primary"
+                onClick={() => setShow(true)}
+                dialogClassName="my-modal"
+            />
             <Modal
                 show={show}
                 onHide={() => setShow(false)}

@@ -14,18 +14,16 @@ function OffCanvasExample({ name, ...props }) {
     const handleShow = () => setShow(true);
     return (
         <>
-            <a className="cart btn-lg text-reset me-3" href="#!">
-                <FontAwesomeIcon
-                    className="icon me-2"
-                    icon={faShoppingBag}
-                    variant="primary"
-                    onClick={handleShow}
-                />
-            </a>
+            <FontAwesomeIcon
+                className="cart text-reset icon me-4"
+                icon={faShoppingBag}
+                variant="primary"
+                onClick={handleShow}
+            />
             <Offcanvas show={show} onHide={handleClose} {...props}>
                 <Offcanvas.Header closeButton>
                     <Offcanvas.Title>Cart (0)</Offcanvas.Title>
-                </Offcanvas.Header>   
+                </Offcanvas.Header>
                 <Offcanvas.Body>
                     <span className="cart-text">Your cart is empty.</span>
                     &nbsp;&nbsp;&nbsp;{" "}

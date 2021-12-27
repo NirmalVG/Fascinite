@@ -15,7 +15,7 @@ class Header extends Component {
             <header className="main-nav">
                 <nav className="navbar navbar-expand-lg navbar-light fixed-top">
                     <div className="container-fluid">
-                        <a className="navbar-brand d-lg-none" href="/">
+                        <Link className="navbar-brand d-lg-none" to="/">
                             <img
                                 src="images/Fascinite.png"
                                 alt="Bootstrap"
@@ -23,7 +23,7 @@ class Header extends Component {
                                 height="50"
                                 class="d-inline-block align-top"
                             />
-                        </a>
+                        </Link>
                         <button
                             className="navbar-toggler"
                             type="button"
@@ -56,7 +56,7 @@ class Header extends Component {
                                     </Link>
                                 </li>
                             </ul>
-                            <a className="d-none d-lg-block mx-auto" href="/">
+                            <Link className="d-none d-lg-block mx-auto" to="/">
                                 <img
                                     src="images/Fascinite.png"
                                     alt="Bootstrap"
@@ -64,7 +64,7 @@ class Header extends Component {
                                     height="50"
                                     class="d-inline-block align-top"
                                 />
-                            </a>
+                            </Link>
                             <SearchBar />
                             <Cart />
                             <Link
