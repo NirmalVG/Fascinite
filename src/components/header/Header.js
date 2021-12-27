@@ -17,7 +17,7 @@ class Header extends Component {
                     <div className="container-fluid">
                         <Link className="navbar-brand d-lg-none" to="/">
                             <img
-                                src="images/Fascinite.png"
+                                src="images/FASCINITE.png"
                                 alt="Bootstrap"
                                 width="120"
                                 height="50"
@@ -58,7 +58,7 @@ class Header extends Component {
                             </ul>
                             <Link className="d-none d-lg-block mx-auto" to="/">
                                 <img
-                                    src="images/Fascinite.png"
+                                    src="images/FASCINITE.png"
                                     alt="Bootstrap"
                                     width="120"
                                     height="50"

@@ -18,28 +18,28 @@ class Home extends Component {
                     <Carousel.Item>
                         <img
                             className="d-block w-100"
-                            src="images/banner1.png"
+                            src="images/Banner1.png"
                             alt="First slide"
                         />
                     </Carousel.Item>
                     <Carousel.Item>
                         <img
                             className="d-block w-100"
-                            src="images/banner2.png"
+                            src="images/Banner2.png"
                             alt="Second slide"
                         />
                     </Carousel.Item>
                     <Carousel.Item>
                         <img
                             className="d-block w-100"
-                            src="images/banner3.png"
+                            src="images/Banner3.png"
                             alt="Third slide"
                         />
                     </Carousel.Item>
                     <Carousel.Item>
                         <img
                             className="d-block w-100"
-                            src="images/banner4.png"
+                            src="images/Banner4.png"
                             alt="Fourth slide"
                         />
                     </Carousel.Item>
@@ -356,7 +356,7 @@ class Home extends Component {
                         <div className="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <img
                                 className="deal-img"
-                                src="images/deal.png"
+                                src="images/Deal.png"
                                 alt="deal"
                             />
                             <div className="caption">
