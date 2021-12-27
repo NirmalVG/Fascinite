@@ -1,0 +1,44 @@
+.copyright {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.footer-content {
+    padding-top: 10px;
+    background-color: #4F3A5B;
+}
+
+.descrip {
+    padding-top: 10px;
+    color: #4F3A5B;
+}
+
+.text-reset {
+    text-decoration: none;
+    color: #4F3A5B;
+}
+
+.text-link {
+    padding-left: 5px;
+}
+
+.icon-button {
+	cursor: pointer;
+	display: inline-block;
+	font-size: 1.5rem;
+	line-height: 3.6rem;
+	margin: 0 30px 0px 30px;
+	position: relative;
+	text-align: center;
+}
+
+.text-dark {
+    text-decoration: none;
+}
+
+.brand {
+    color: #4F3A5B;
+}
+
+.brand:hover {
+    color: #8C52FF;
+}

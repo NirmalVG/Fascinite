@@ -1,0 +1,12 @@
+.cart-text {
+    color: red;
+}
+
+.cart-link {
+    color: #4F3A5B;
+}
+
+.empty-cart {
+    height: auto;
+    width: 100%;
+}

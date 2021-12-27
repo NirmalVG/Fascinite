@@ -1,0 +1,15 @@
+.text-area {
+    height: 12rem !important;
+}
+
+.contact-main {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.bg-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+

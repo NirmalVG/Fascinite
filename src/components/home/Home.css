@@ -1,0 +1,155 @@
+.d-block {
+    position: relative;
+    height: auto;
+    width: 100%;
+}
+
+.view-all {
+    text-align: right;
+}
+
+.men {
+    height: auto;
+    width: 100%;
+}
+
+.women {
+    height: auto;
+    width: 100%;
+}
+
+.men-head {
+    text-align: center;
+}
+
+.fashion-section {
+    margin-top: 50px;
+}
+
+.main-carousel {
+    margin-top: 68px;
+}
+
+.sort-products {
+    display: none;
+}
+
+.deal-img {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 40px;
+}
+
+.deal-section {
+    position: relative;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.deal-head {
+    position: absolute;
+    top: 25%;
+    left: 0;
+    width: 76%;
+    font-size: 45px;
+}
+
+.head-pro {
+    color: #4f3a5b;
+}
+
+.timer-section {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 75%;
+}
+
+.logo-img {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-section {
+    margin-bottom: 50px;
+}
+
+.hover-head {
+    text-decoration: none;
+    color: black;
+}
+
+.hover-underline-animation {
+    display: inline-block;
+    position: relative;
+    color: #4f3a5b;
+    cursor: pointer;
+    margin: auto;
+}
+
+.product-desc {
+    margin: 0px 60px 0px 60px;
+}
+
+.hover-underline-animation:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #4f3a5b;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+.mask {
+    background-color: rgba(251, 251, 251, 0.15);
+}
+
+.tag {
+    text-transform: uppercase;
+    font-size: 0.6rem;
+    font-weight: 500;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    padding: 0 0.4rem;
+}
+
+.shop-btn {
+    position: absolute;
+    top: 70%;
+    left: 27%;
+}
+
+.title {
+    font-size: 0.95rem;
+    letter-spacing: 0.5px;
+}
+
+@media (max-width: 1024px) {
+    [class~="add-button"] {
+        padding: 5px 5px;
+        font-size: 6px;
+        top: 32%;
+        left: 14%;
+    }
+    [class~="deal-section"] {
+        display: none;
+    }
+    [class~="main-carousel"] {
+        margin-top: 76px;
+    }
+}
