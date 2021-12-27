@@ -51,29 +51,29 @@ class Header extends Component {
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="nav-link" href="/about">
+                                    <Link className="nav-link" to="/about">
                                         About
-                                    </a>
+                                    </Link>
                                 </li>
                             </ul>
-                                <a className="d-none d-lg-block mx-auto" href="/">
-                                    <img
-                                        src="images/Fascinite.png"
-                                        alt="Bootstrap"
-                                        width="120"
-                                        height="50"
-                                        class="d-inline-block align-top"
-                                    />
-                                </a>
-                                <SearchBar />
-                                <Cart />
-                                <Link
-                                    className="cart btn-lg text-reset me-3"
-                                    to="/login"
-                                >
-                                    <FaSignInAlt className="icon" />
-                                </Link>
-                            </div>
+                            <a className="d-none d-lg-block mx-auto" href="/">
+                                <img
+                                    src="images/Fascinite.png"
+                                    alt="Bootstrap"
+                                    width="120"
+                                    height="50"
+                                    class="d-inline-block align-top"
+                                />
+                            </a>
+                            <SearchBar />
+                            <Cart />
+                            <Link
+                                className="cart btn-lg text-reset me-3"
+                                to="/login"
+                            >
+                                <FaSignInAlt className="icon" />
+                            </Link>
+                        </div>
                     </div>
                 </nav>
             </header>
