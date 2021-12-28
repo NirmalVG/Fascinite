@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Fascinite/static/css/main.b52f7172.chunk.css",
+    "main.js": "/Fascinite/static/js/main.da2d77be.chunk.js",
+    "main.js.map": "/Fascinite/static/js/main.da2d77be.chunk.js.map",
+    "runtime-main.js": "/Fascinite/static/js/runtime-main.cfc90331.js",
+    "runtime-main.js.map": "/Fascinite/static/js/runtime-main.cfc90331.js.map",
+    "static/css/2.43e5b225.chunk.css": "/Fascinite/static/css/2.43e5b225.chunk.css",
+    "static/js/2.bb4a0d6b.chunk.js": "/Fascinite/static/js/2.bb4a0d6b.chunk.js",
+    "static/js/2.bb4a0d6b.chunk.js.map": "/Fascinite/static/js/2.bb4a0d6b.chunk.js.map",
+    "static/js/3.b774783d.chunk.js": "/Fascinite/static/js/3.b774783d.chunk.js",
+    "static/js/3.b774783d.chunk.js.map": "/Fascinite/static/js/3.b774783d.chunk.js.map",
+    "index.html": "/Fascinite/index.html",
+    "static/css/2.43e5b225.chunk.css.map": "/Fascinite/static/css/2.43e5b225.chunk.css.map",
+    "static/css/main.b52f7172.chunk.css.map": "/Fascinite/static/css/main.b52f7172.chunk.css.map",
+    "static/js/2.bb4a0d6b.chunk.js.LICENSE.txt": "/Fascinite/static/js/2.bb4a0d6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfc90331.js",
+    "static/css/2.43e5b225.chunk.css",
+    "static/js/2.bb4a0d6b.chunk.js",
+    "static/css/main.b52f7172.chunk.css",
+    "static/js/main.da2d77be.chunk.js"
+  ]
+}
