@@ -10,3 +10,7 @@
     height: auto;
     width: 100%;
 }
+
+.cart {
+    cursor: pointer;
+}

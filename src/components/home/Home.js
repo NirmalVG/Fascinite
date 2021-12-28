@@ -350,7 +350,6 @@ class Home extends Component {
                     </div>
                 </div>
                 <Products />
-
                 <div className="deal-section container-fluid">
                     <div className="row">
                         <div className="col-lg-12 col-md-12 col-sm-12 col-xs-12">
